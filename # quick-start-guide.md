@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This app helps you take down notes in a clear and hassle free manner.WHether you are in a meeting or trying to make lists , Notedly is the perfect one stop solution for your needs.
+This app helps you take down notes in a clear and hassle free manner.Whether you are in a meeting or trying to make lists , Notedly is the perfect one stop solution for your needs.
 
 ## Getting Started
 
